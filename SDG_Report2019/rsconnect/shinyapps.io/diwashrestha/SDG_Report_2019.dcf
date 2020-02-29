@@ -1,0 +1,13 @@
+name: SDG_Report_2019
+title: SDG_Report_2019
+username:
+account: diwashrestha
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 1854926
+bundleId: 2840102
+url: https://diwashrestha.shinyapps.io/SDG_Report_2019/
+when: 1582996730.39941
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: data/~$2019GlobalIndexResults_modified.xlsx

@@ -1,0 +1,12 @@
+app <- ShinyDriver$new("../")
+app$snapshotInit("mytest")
+
+app$snapshot()
+app$setInputs(sdggoal = "2. Zero Hunger")
+app$setInputs(sdggoal = "5. Gender Equality")
+app$setInputs(sdggoal = "8. Decent Work and Economic Growth")
+app$setInputs(sdggoal = "16. Peace, Justice, and Strong Institutions")
+app$setInputs(sdggoal = "2. Zero Hunger")
+app$setInputs(goal4 = "click")
+app$setInputs(goal18 = "click")
+app$setInputs(goal3 = "click")
