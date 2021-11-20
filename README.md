@@ -4,7 +4,9 @@
 
 This is a interactive visualization of the SDG 2019 report. It shows the levels at which the country are on 17 different Sustainable Goals.
 
-![](https://diwashrestha.com.np/project/sdg-report-2019/featured_hu9b81c3c0cb2b47de67f82e8418aa562b_130178_150x0_resize_q90_lanczos.jpg)
+![](https://github.com/diwashrestha/SDGs_Dashboard/blob/master/sdg1.png?raw=true)
+
+![](https://github.com/diwashrestha/SDGs_Dashboard/blob/master/sdg2.png?raw=true)
 
 ## Project Demo
 
