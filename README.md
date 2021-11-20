@@ -18,13 +18,3 @@ This section should list any major frameworks/libraries used to bootstrap your p
 * [Shiny](https://shiny.rstudio.com/)
 * [Highcharter](https://jkunst.com/highcharter/)
 * [Tidyverse](https://www.tidyverse.org/)
-
-<!-- CONTACT -->
-## Contact
-
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
-
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
