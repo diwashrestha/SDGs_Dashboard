@@ -14,9 +14,9 @@ This is a interactive visualization of the SDG 2019 report. It shows the levels 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+This project was built with using:
 
 * [R](https://www.r-project.org/)
-* [Shiny](https://shiny.rstudio.com/)
-* [Highcharter](https://jkunst.com/highcharter/)
-* [Tidyverse](https://www.tidyverse.org/)
+* [Shiny](https://shiny.rstudio.com/) - web devlopment
+* [Highcharter](https://jkunst.com/highcharter/) - data visualization
+* [Tidyverse](https://www.tidyverse.org/) - data manipulation
