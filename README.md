@@ -13,12 +13,15 @@ This project was built with using:
 * [Highcharter](https://jkunst.com/highcharter/) - data visualization
 * [Tidyverse](https://www.tidyverse.org/) - data manipulation
 
+## Project Demo
+
+💻[Project Demo](https://diwashrestha.shinyapps.io/SDG_Report_2019/)
+
+
 ![](https://github.com/diwashrestha/SDGs_Dashboard/blob/master/sdg1.png?raw=true)
 
 ![](https://github.com/diwashrestha/SDGs_Dashboard/blob/master/sdg2.png?raw=true)
 
-## Project Demo
 
-💻[Project Demo](https://diwashrestha.shinyapps.io/SDG_Report_2019/)
 
 
