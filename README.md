@@ -9,7 +9,7 @@ This is a interactive visualization of the SDG 2019 report. It shows the levels 
 This project was built with using:
 
 * [R](https://www.r-project.org/)
-* [Shiny](https://shiny.rstudio.com/) - web devlopment
+* [Shiny](https://shiny.rstudio.com/) - web development
 * [Highcharter](https://jkunst.com/highcharter/) - data visualization
 * [Tidyverse](https://www.tidyverse.org/) - data manipulation
 
