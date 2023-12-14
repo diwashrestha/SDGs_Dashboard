@@ -4,9 +4,7 @@
 
 This is a interactive visualization of the SDG 2019 report. It shows the levels at which the country are on 17 different Sustainable Goals.
 
-### Built With 🧰
-
-This project was built with using:
+### Built with:
 
 * [R](https://www.r-project.org/)
 * [Shiny](https://shiny.rstudio.com/) - web development
