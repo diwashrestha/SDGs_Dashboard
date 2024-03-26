@@ -15,7 +15,6 @@ This is a interactive visualization of the SDG 2019 report. It shows the levels 
 
 💻 [Project Demo](https://diwashrestha.shinyapps.io/SDG_Report_2019/)
 
-📄 [Internship Report](https://github.com/diwashrestha/SDGs_Dashboard/blob/master/Internship-Report-Diwash.pdf)
 
 
 ![](https://github.com/diwashrestha/SDGs_Dashboard/blob/master/sdg1.png?raw=true)
